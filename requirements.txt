@@ -1,0 +1,3 @@
+kore
+kore-shell>=0.0.2
+beaker

@@ -1,2 +1,2 @@
 # kore-plugins-beaker
-Beaker plugins for Kore framework
+[Beaker](https://beaker.readthedocs.io/) plugins for [Kore](https://github.com/p1c2u/kore) framework
